@@ -1,7 +1,0 @@
-com\tka\SRMSentity\StudentOrder.class
-com\tka\SRMSservice\StudentService.class
-com\tka\SRMSclient\StudentClient.class
-com\tka\SRMSdao\StudentDao.class
-com\tka\SRMSentity\Student.class
-com\tka\SRMScontroller\StudentController.class
-com\tka\SRMSentity\Address.class
